@@ -27,7 +27,7 @@ Les images utilisées pour ce projet proviennent de **Unsplash**, une plateforme
 
 | Voiture | Chien | Joueur |
 |---------|------|--------|
-| ![Voiture détectée](Test_images_YOLO/car_test.JPG) | ![Chien détecté](Test_images_YOLO/dog_test.JPG) | ![Joueur détecté](Test_images_YOLO/player_test.JPG) | ![lunch détecté](Test_images_YOLO/lunch_test.JPG) |
+| ![Voiture détectée](Test_images_YOLO/car_test.JPG) | ![Chien détecté](Test_images_YOLO/lunch_test.JPG) | ![Joueur détecté](Test_images_YOLO/player_test.JPG) |
 
 ---
 
