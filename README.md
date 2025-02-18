@@ -1,6 +1,8 @@
 # YOLOv8-Object-Detection
 
-### 🚀 Détection d'Objets en Temps Réel avec YOLOv8
+---
+
+# 🚀 Détection d'Objets en Temps Réel avec YOLOv8  
 
 Ce projet présente une **implémentation complète de YOLOv8** pour la détection d’objets sur **images, vidéos et en temps réel**. Il inclut l’entraînement sur un **dataset personnalisé**, ainsi que l’optimisation des performances du modèle.  
 
@@ -14,12 +16,13 @@ Dans ce projet, nous avons **exploré et testé YOLOv8** sur divers cas d’util
 ✅ **Entraînement sur un dataset personnalisé**  
 ✅ **Optimisation des performances du modèle**  
 ✅ **Test en temps réel avec la webcam**  
-✅ **Sauvegarde et visualisation des prédictions**
+✅ **Sauvegarde et visualisation des prédictions**  
 
-🚨 **Note** : Pour des **contraintes de mémoire et de calcul**, nous avons utilisé **YOLOv8n (nano)**, un modèle léger optimisé. Nous n'avons pas testé de modèles plus grands (**YOLOv8m, YOLOv8l, YOLOv8x**), mais ceux-ci peuvent être utilisés sur du matériel plus puissant pour des performances accrues.
+🚨 **Note** : Pour des **contraintes de mémoire et de calcul**, nous avons utilisé **YOLOv8n (nano)**, un modèle léger optimisé. Nous n'avons pas testé de modèles plus grands (**YOLOv8m, YOLOv8l, YOLOv8x**), mais ceux-ci peuvent être utilisés sur du matériel plus puissant pour des performances accrues.  
 
-📷 Respect du RGPD :
-Les images utilisées pour ce projet proviennent de Unsplash, une plateforme fournissant des images libres de droits. Cela permet de respecter les normes de confidentialité et évite l’utilisation de données personnelles sensibles.
+📷 **Respect du RGPD** :  
+Les images utilisées pour ce projet proviennent de **Unsplash**, une plateforme fournissant des images **libres de droits**. Cela permet de respecter les **normes de confidentialité** et **évite l’utilisation de données personnelles sensibles**.
+
 ---
 
 ## 🎯 **Fonctionnalités Principales**
@@ -78,13 +81,6 @@ cd YOLOv8-Detection
 # 2️⃣ Installez les dépendances
 pip install -r requirements.txt
 ```
-
-#### ➤ **Entraînement sur un Dataset Personnalisé**
-```python
-model = YOLO("yolov8n.pt")  
-model.train(data="data.yaml", epochs=50, imgsz=640, batch=8, workers=2)
-```
-
 ---
 
 ## 🚀 **Améliorations Futures**
@@ -97,4 +93,6 @@ model.train(data="data.yaml", epochs=50, imgsz=640, batch=8, workers=2)
 
 ## ✍️ **Auteur**
 Projet réalisé par **Khoty WOLIE**  
-📩 *N’hésitez pas à me contacter pour toute question ou suggestion !* 😊
+📩 *N’hésitez pas à me contacter pour toute question ou suggestion !* 😊  
+
+---
