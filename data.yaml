@@ -1,0 +1,6 @@
+train: C:/Users/Infogene/Documents/Khoty_Privé/YOLO PROJECT/images/train/
+val: C:/Users/Infogene/Documents/Khoty_Privé/YOLO PROJECT/images/val/
+
+nc: 17  # Nombre total de classes
+
+names: ["car", "dog", "soccer", "winter", "trees", "lux car", "winter car", "lunch", "soccer player", "lunch 2", "walk", "walk 2", "work", "walk 3","walk 4", "dinner", "swimming pool"]
