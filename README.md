@@ -23,6 +23,12 @@ Dans ce projet, nous avons **exploré et testé YOLOv8** sur divers cas d’util
 📷 **Respect du RGPD** :  
 Les images utilisées pour ce projet proviennent de **Unsplash**, une plateforme fournissant des images **libres de droits**. Cela permet de respecter les **normes de confidentialité** et **évite l’utilisation de données personnelles sensibles**.
 
+## 🖼️ Aperçu des Images Testées
+
+| Voiture | Chien | Joueur |
+|---------|------|--------|
+| ![Voiture détectée](Test_images_YOLO/car_test.JPG) | ![Chien détecté](Test_images_YOLO/dog_test.JPG) | ![Joueur détecté](Test_images_YOLO/player_test.JPG) |
+
 ---
 
 ## 🎯 **Fonctionnalités Principales**
