@@ -12,6 +12,7 @@ Ce projet présente une **implémentation complète de YOLOv8** pour la détecti
 **YOLO (You Only Look Once)** est une architecture de réseau de neurones convolutifs (**CNN**) permettant une **détection rapide et précise des objets**. YOLOv8, développé par **Ultralytics**, améliore la vitesse, la précision et l’accessibilité du modèle.
 
 Dans ce projet, nous avons **exploré et testé YOLOv8** sur divers cas d’utilisation, en nous concentrant sur :
+
 ✅ **Détection d’objets sur images et vidéos**  
 ✅ **Entraînement sur un dataset personnalisé**  
 ✅ **Optimisation des performances du modèle**  
